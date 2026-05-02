@@ -1,0 +1,4 @@
+##ignore these type of files
+
+__pycache__/
+cache/
